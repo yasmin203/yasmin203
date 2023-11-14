@@ -1,14 +1,16 @@
 ### Hi there, I'm Yasmin - Ibrahim 👋
 
-## I'm a Frontend Developer, Who love to code and learn different things!!
+## I'm a Data Analyst and frontend Developer, Who loves to code and learn different things!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Passionate developer
-- 🥅 2022 Goals: Master React,MERN stack and Contribute more to Open Source projects
-- ⚡ Fun fact: I love to make conversations with different people from different cultures and backgrounds / giving recommendations & opinions on movies
+- 👯 I’m looking to collaborate with another Passionate developer
+- ⚡ Fun fact: I love to make conversations with different people from different cultures and backgrounds / give recommendations & opinions on movies
 <br />
 
 ## Languages:
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/Desktop.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/Excel-Workbook.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
